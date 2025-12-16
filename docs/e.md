@@ -12,7 +12,7 @@ The reality, some of our protocols bridge layers, break layers, etc. It is after
 
 <figure>
 <img src = "https://jor-donegal.github.io/LayeredModels26/images/fig5.png">
-<figcaption>Fig 5. Layer summary.</figcaption>
+<figcaption>Fig 5. Layer summary, my version.</figcaption>
 </figure>
 
 The ultimate way to secure hosts is to have a firewall which is _application aware_. We call these layer 7 firewalls or proxies and we can use them to monitor and control traffic even where it uses anomalous ports. 

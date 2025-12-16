@@ -2,7 +2,7 @@
 
 !!! abstract "The Physical Layer"
 
-The first layer in any data communications system will be the physical layer. This is where we describe the wires or cables of radio waves, the electrical or optical properties, signal levels and encoding. 
+The first layer in any data communications system will be the physical layer. This is where we describe the wires or cables of radio waves, the electrical or optical properties, signal levels and encoding of the raw bits. 
 
 For example, the ubiquitous structured cabling which we use for computing is called CAT5e or CAT6 and the most common protocol is Ethernet. Signals on this cable have; 
 
