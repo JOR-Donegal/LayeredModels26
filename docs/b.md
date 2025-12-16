@@ -9,7 +9,7 @@ Layer 2 provides for the standards that let us communicate between two devices w
 <figcaption>Fig 1. An Ethernet Frame.</figcaption>
 </figure>
 
-We will look in more detail at the Ethernet _frame_ in later exercises. However, every network card has a unique 48-bit _Media Access Control_ (MAC) address, unique in the whole world and standardized. A physical address.
+We will look in more detail at the Ethernet _frame_ in later exercises. However, every network card has a unique 48-bit _Media Access Control_ (MAC) address, unique in the whole world and standardized;  a physical address.
 
 The sending node sends out a frame with a destination address (so the computer the frame is intended for knows that the frame is for it) and its own address, a data payload. The standard includes for things like knowing when the network is busy or free, identifying when frames of data have got mangled or when two devices try to communicate at the same time and talk over each other (called a _collision_).
 
