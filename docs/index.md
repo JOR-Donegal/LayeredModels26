@@ -23,4 +23,6 @@ The easy way to approach these things is to compartmentalize all the things we w
 
 In the early days of development of this layered approach to communications there were many contributors, none of whom agreed. The result was a compromise which didn’t really suit anybody, but that we still use to this day to describe the layers and inter-relations in a communications model. 
 
-In the next few pages, we will look at how layered models allow us to describe how nodes (computer, printers, etc.) connected to networks and interconnect with each other. In each case we will look at the most typical protocols you are likely to be exposed to. Keep in mind that there are many other alternatives out there!
+In the next few pages, we will look at how layered models allow us to describe how nodes (computer, printers, etc.) connected to networks and interconnect with each other. In each case we will look at the most typical protocols you are likely to be exposed to. Keep in mind that there are many other alternatives out there! I will examine the ISO/OSI model (they  really called it that!). 
+
+In the ISO/OS model, if you concatenate the first two, and the top three layers of this model, you have the _TCP/IP Model_. Do a little background reading on this. 
